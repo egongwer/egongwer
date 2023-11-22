@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egongwer
 - 👀 I’m interested in music (metal, rock), gaming, and movies!
-- 🌱 I’m currently learning CSE at the Ohio State University.
+- 🌱 I graduated from The Ohio State University with a Computer Science and Engineering degree.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: gongwer.evan@gmail.com
 
